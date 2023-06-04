@@ -1,2 +1,2 @@
 # MongoDB
-contains small projects related to mongoose, mongoDB relationships and mongoDB errors
+Contains small projects related to mongoose, mongoDB relationships and mongoDB errors
